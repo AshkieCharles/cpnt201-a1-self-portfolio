@@ -70,7 +70,7 @@ header table {
     transition:0.4s ease-in-out;
 }
 #magnify h1:hover{
-    color:rgb(255, 44, 90);
+    color:rgb(156, 17, 47);
     cursor:pointer;
 }
 #img_here {
@@ -145,7 +145,7 @@ header table {
 .btn_one {
     font-size:18px;
     font-family: 'Poppins', sans-serif;
-    color:rgb(255, 44, 90);
+    color:rgb(255, 0, 55);
     background:#fff;
     border:3px solid rgb(255, 44, 90);
     padding:8px 40px;
